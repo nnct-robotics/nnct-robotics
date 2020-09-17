@@ -5,7 +5,7 @@
 ## 使い方　場所
 リポジトリ  
 mbed-library - MBEDのライブラリ  
-technical-Documents - 技術資料  
+technical-documents - 技術資料  
 
 ## 命名規則
 リポジトリのつくりかた  
